@@ -15,14 +15,12 @@
   <img alian="cente" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alian="cente" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alian="cente" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img alian="cente" alt="MarkDown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img alian="cente" alt="MarkDown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /> <br/>
  
-
+  ![Snake animation](https://github.com/amanda99sds/amanda99sds/blob/output/github-contribution-grid-snake.svg)
+  
 </div> <br/>
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda99sds&layout=compact)](https://github.com/amanda99sds/github-readme-stats)
 
 <br/>
- <div>
-   ![Snake animation](https://github.com/amanda99sds/amanda99sds/blob/output/github-contribution-grid-snake.svg)
-  </div>
