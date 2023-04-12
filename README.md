@@ -23,5 +23,6 @@
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda99sds&layout=compact)](https://github.com/amanda99sds/github-readme-stats)
 
 <br/>
-
-![Snake animation](https://github.com/amanda99sds/amanda99sds/blob/output/github-contribution-grid-snake.svg)
+ <div>
+   ![Snake animation](https://github.com/amanda99sds/amanda99sds/blob/output/github-contribution-grid-snake.svg)
+  </div>
